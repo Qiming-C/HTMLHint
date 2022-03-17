@@ -1,0 +1,3936 @@
+[
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 12,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 12,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 12,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 18,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 18,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 18,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 19,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 19,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 19,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 20,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 20,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 20,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 22,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 22,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 22,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 23,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 23,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 23,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 24,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 24,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 24,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </input> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 25,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 26,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 26,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 28,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 29,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </hello> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 30,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </test> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 31,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 32,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 38,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 38,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 38,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 44,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 50,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 50,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 50,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 56,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 62,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 62,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 62,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 68,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 74,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 74,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 74,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 80,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 81,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 82,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 83,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 84,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 85,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 86,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 87,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 88,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 89,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 90,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 91,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 92,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 93,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 94,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 95,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 96,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/scrabble-multiplayer-Qiming-C/text.html",
+    "line": 97,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 12,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 12,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 12,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 18,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 18,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 18,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 19,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 19,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 19,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 20,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 20,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 20,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 22,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 22,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 22,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 23,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 23,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 23,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 24,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 24,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 24,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </input> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 25,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 26,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 26,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 28,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 29,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </hello> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 30,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </test> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 31,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 32,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 38,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 38,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 38,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 44,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 50,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 50,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 50,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 56,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 62,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 62,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 62,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 68,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 74,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 74,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 74,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 80,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 81,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 82,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 83,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 84,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 85,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 86,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 87,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 88,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 89,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 90,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 91,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 92,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 93,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 94,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 95,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 96,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/html/executable.html",
+    "line": 97,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 8,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ bad ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Duplicate of attribute name [ bad ] was found.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 9,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-no-duplication"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </input> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 10,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 11,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 13,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 14,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </hello> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 15,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </test> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 16,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 17,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ class ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ what ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "The value of attribute [ something ] must be in double quotes.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 21,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/attr-value-double-quotes"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 25,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 26,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/example.html",
+    "line": 27,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </input> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </hello> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </test> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </div> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, no start tag: [ </bad> ]",
+    "file": "/home/jimmy/codeResource/HTMLHint/test/cli/formatters/html.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/jacoco-sessions.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/jacoco-sessions.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/jacoco-sessions.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CK.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CK.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CK.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CK.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CK.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CK.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKClassResult.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKClassResult.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKClassResult.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKClassResult.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKClassResult.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKClassResult.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKMethodResult.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKMethodResult.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKMethodResult.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKMethodResult.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKMethodResult.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKMethodResult.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKNotifier.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKNotifier.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKNotifier.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKNotifier.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKNotifier.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKNotifier.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor$ClassInTheStack.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor$ClassInTheStack.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor$ClassInTheStack.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor$MethodInTheStack.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor$MethodInTheStack.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor$MethodInTheStack.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/CKVisitor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/MetricsExecutor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/MetricsExecutor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/MetricsExecutor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/MetricsExecutor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/MetricsExecutor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/MetricsExecutor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/ResultWriter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/ResultWriter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/ResultWriter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/ResultWriter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/ResultWriter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/ResultWriter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/Runner.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/DependencySorter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/DependencySorter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/DependencySorter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/DependencySorter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/DependencySorter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/DependencySorter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/FileUtils.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/FileUtils.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/FileUtils.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/FileUtils.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/FileUtils.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/FileUtils.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/JDTUtils.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/JDTUtils.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/JDTUtils.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/JDTUtils.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/JDTUtils.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/JDTUtils.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/LOCCalculator.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/LOCCalculator.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/LOCCalculator.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/LOCCalculator.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/LOCCalculator.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/LOCCalculator.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/MetricsFinder.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/MetricsFinder.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/MetricsFinder.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/MetricsFinder.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/MetricsFinder.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/MetricsFinder.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/WordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.util/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CBO.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CBO.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CBO.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CBO.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CBO.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CBO.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CKASTVisitor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CKASTVisitor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CKASTVisitor.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CKASTVisitor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CKASTVisitor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CKASTVisitor.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelMetric.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelMetric.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelMetric.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelMetric.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelMetric.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelMetric.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelWordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelWordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelWordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelWordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelWordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/ClassLevelWordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/Coupling.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/Coupling.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/Coupling.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/Coupling.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/Coupling.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/Coupling.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CouplingExtras.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CouplingExtras.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CouplingExtras.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CouplingExtras.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CouplingExtras.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/CouplingExtras.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/DIT.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/DIT.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/DIT.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/DIT.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/DIT.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/DIT.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/JavadocLines.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/JavadocLines.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/JavadocLines.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/JavadocLines.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/JavadocLines.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/JavadocLines.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOM.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOM.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOM.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOM.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOM.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOM.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOMNormalized.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOMNormalized.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOMNormalized.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOMNormalized.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOMNormalized.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/LCOMNormalized.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodInvocationsLocal.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodInvocationsLocal.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodInvocationsLocal.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodInvocationsLocal.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodInvocationsLocal.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodInvocationsLocal.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelFieldUsageCount.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelFieldUsageCount.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelFieldUsageCount.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelFieldUsageCount.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelFieldUsageCount.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelFieldUsageCount.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelMetric.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelMetric.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelMetric.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelMetric.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelMetric.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelMetric.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelWordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelWordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelWordCounter.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelWordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelWordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/MethodLevelWordCounter.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOCExtras.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOCExtras.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOCExtras.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOCExtras.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOCExtras.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOCExtras.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOSI.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOSI.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOSI.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOSI.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOSI.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NOSI.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfAssignments.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfAssignments.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfAssignments.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfAssignments.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfAssignments.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfAssignments.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfComparisons.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfComparisons.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfComparisons.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfComparisons.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfComparisons.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfComparisons.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfFields.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfFields.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfFields.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfFields.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfFields.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfFields.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfInnerClassesLambdasAndAnonymousClasses.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfInnerClassesLambdasAndAnonymousClasses.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfInnerClassesLambdasAndAnonymousClasses.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfInnerClassesLambdasAndAnonymousClasses.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfInnerClassesLambdasAndAnonymousClasses.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfInnerClassesLambdasAndAnonymousClasses.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLogStatements.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLogStatements.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLogStatements.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLogStatements.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLogStatements.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLogStatements.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLoops.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLoops.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLoops.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLoops.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLoops.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfLoops.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMathOperators.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMathOperators.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMathOperators.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMathOperators.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMathOperators.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMathOperators.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMaxNestedBlock.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMaxNestedBlock.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMaxNestedBlock.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMaxNestedBlock.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMaxNestedBlock.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMaxNestedBlock.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMethods.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMethods.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMethods.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMethods.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMethods.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfMethods.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfNumbers.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfNumbers.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfNumbers.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfNumbers.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfNumbers.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfNumbers.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParameters.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParameters.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParameters.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParameters.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParameters.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParameters.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParenthesis.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParenthesis.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParenthesis.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParenthesis.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParenthesis.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfParenthesis.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfReturns.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfReturns.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfReturns.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfReturns.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfReturns.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfReturns.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfStringLiterals.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfStringLiterals.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfStringLiterals.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfStringLiterals.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfStringLiterals.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfStringLiterals.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfTryCatches.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfTryCatches.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfTryCatches.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfTryCatches.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfTryCatches.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfTryCatches.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfVariables.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfVariables.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfVariables.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfVariables.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfVariables.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/NumberOfVariables.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/RFC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/RFC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/RFC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/RFC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/RFC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/RFC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/TightClassCohesion.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/TightClassCohesion.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/TightClassCohesion.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/TightClassCohesion.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/TightClassCohesion.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/TightClassCohesion.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/VariableOrParameterUsageCount.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/VariableOrParameterUsageCount.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/VariableOrParameterUsageCount.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/VariableOrParameterUsageCount.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/VariableOrParameterUsageCount.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/VariableOrParameterUsageCount.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC$1.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/WMC.java.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/index.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ < ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Special characters must be escaped : [ > ].",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/spec-char-escape"
+  },
+  {
+    "type": "error",
+    "message": "Doctype must be declared first.",
+    "file": "/home/jimmy/codeResource/ck/target/site/jacoco/com.github.mauricioaniche.ck.metric/index.source.html",
+    "line": 1,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/doctype-first"
+  },
+  {
+    "type": "error",
+    "message": "Tag must be paired, missing: [ </p></p> ], start tag match failed [ <p> ] on line 279.",
+    "file": "/home/jimmy/codeResource/ck/target/apidocs/com/github/mauricioaniche/ck/metric/NumberOfLogStatements.html",
+    "line": 282,
+    "details_url": "https://htmlhint.com/docs/user-guide/rules/tag-pair"
+  }
+]
